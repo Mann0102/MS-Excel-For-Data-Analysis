@@ -1,0 +1,19 @@
+Analysis on Employee Data using Excel :
+
+Problem Statement :-
+
+  - Region wise Working hours of employees.
+  - Sum of salary by designation.
+  - Sum of working hours of emplyees.
+  - Sum of salary by designamtion and region.
+  - Percentage of salary by designation and region.
+  - Count of employees by region.
+  - Count of employees by designation.
+  
+  We can also perform the simple operation on data like :
+    -sum of salary
+    -average salary
+    -max salary
+    -min salary
+    ,etc.
+    
